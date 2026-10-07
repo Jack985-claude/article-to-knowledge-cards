@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识卡片生成"
+  short_description: "将文章或本地 Markdown/TXT 文件提炼为清晰可信的知识卡片"
+  default_prompt: "使用 $make-knowledge-cards 将以下文章整理为知识卡片。"
